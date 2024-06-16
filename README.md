@@ -18,7 +18,8 @@ pip install -r requirements.txt
 
 # Running the tool
 Possible options
-![image](https://github.com/Pratham1812/MemSneak/assets/32198580/c4767fcd-e4ee-4167-8cf6-dc8ef3412cef)
+![image](https://github.com/Pratham1812/MemSneak/assets/32198580/78807964-7f6f-4268-9ce9-66a92bfecf2b)
+
 
 
 To run sample binary in `examples/` directory
@@ -27,7 +28,8 @@ To run sample binary in `examples/` directory
 sudo python3 memSneak.py -c "./example/main" 
 ```
 Pass the `--freq` flag to count the frequency of each allocation
-![image](https://github.com/Pratham1812/MemSneak/assets/32198580/bea428cc-4c1d-430b-b8d3-74e91adfe5a7)
+![image](https://github.com/Pratham1812/MemSneak/assets/32198580/12f8887c-a7af-472b-9cc7-76869a19f035)
+
 
 
 To run the tool on all the kernel processes
